@@ -3,5 +3,5 @@
 - 😄 I am interested in Software and Game Development, Data Science, FullStack Development, UX & UI Design and Research, Product Managment and Machine Learning & AI.
 - 🌱 I’m currently learning React, SQL, Unity (C#), Pytorch and UX Research & Design 
 - 📫 Feel feel to reach out to me by email: nanthana@ualberta.ca
-- 📊 Portfolio Website: https://abinandn1.github.io
+- 📊 Portfolio Website: https://abinandn.netlify.app/
 
